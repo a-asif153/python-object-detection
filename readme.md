@@ -1,3 +1,5 @@
 # Python Object Detection & Email Alert
 
-This code detects objects and sends an email with object photo when the object exits the screen
+OpenCV based object detection with an email alert option
+
+The app detects an object and sends email with the image of the object
